@@ -6,8 +6,7 @@ Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system 
 
 ## 👥 Student Conversation
 
-**Stu1**: _Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?
-_
+**Stu1**: _Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?_
 **Stu2**: _Absolutely. I’ve spent hours trying to piece together classmates’ notes, only to find crucial parts missing or unclear._
 
 **Stu1**: That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone.
