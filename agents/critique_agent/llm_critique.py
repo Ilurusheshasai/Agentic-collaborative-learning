@@ -95,16 +95,20 @@ Feedback from the review:
 {feedback}
 
 Write:
-1) A concise, encouraging **email subject** about their linear regression notes - keep it short and engaging.
+1) A concise, encouraging **email subject** about their notes - keep it short and engaging.
 2) A warm, motivating **email body** that:
    - Greets them by first name
    - References the CS101 course and week 3
-   - Gives specific, constructive feedback on their linear regression notes
+   - Gives specific, constructive feedback on their notes
    - If NEEDS_IMPROVEMENT: Mentions they should add practical applications and simple case studies
    - If APPROVED: Congratulates them with positive, specific feedback
-   - Encourages them to check out the Drive link with resources
+   - Encourages them to check out the Drive link with resources. But dont point them to the link directly.
    - Mentions this topic will be discussed further in the next class
    - Uses a professional but friendly tone
+   - Uses a subject line that is **concise** and **engaging** (max 10 words)
+   - Uses a body that is **warm** and **motivating** (max 200 words)
+   - Uses a **friendly closing** (e.g., "Best," or "Cheers,")
+   - Mention to delete the old file and upload the new one if the previous one is not approved.
    - Includes appropriate emoji(s) (1-2 total)
    - Closes with an encouraging line and a signature
 
