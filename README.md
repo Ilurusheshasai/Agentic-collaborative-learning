@@ -3,6 +3,17 @@
 Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system designed to supercharge student collaboration and learning quality in any classroom setting! This agentic model helps to solve that problem by allowing topic sharing between students by professor. Students submit the part of topic they have to prepare submit it in shared drive folder and LLM verifies it based on instruction provided by professor and then send email to other students to refer notes of it meets professor set bar, else suggest improvements to student and suggests a re-submission before sending to others.
 
 ## Whats the point of every student reading the same notes yet the dont learn fully and dont get feedback on what they lack. Its embarcing to learn something in Univs and be in an ackward position when someone asks you questions and you cant answer it. This agentic model approach try's to eleminate the problem, by giving time to prepare notes, tell what you miss and share the notes with your peers quick feedbacks and encouraging discussions among students for next classes by preparing question that help you understand the why and how of learning process (Future work -  preparing question that help you understand the why and how of learning process).  
+
+👥 Student Conversation
+
+Dude1: Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?
+Dude2: Absolutely. I’ve spent hours trying to piece together classmates’ notes, only to find crucial parts missing or unclear.
+Dude1: That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone.
+Dude2: Wow—that means if my draft is missing examples or derivations, I get immediate suggestions to improve it before it’s shared broadly.
+Dude1: Exactly! And once approved, it emails the class with a link. Plus, it can generate discussion questions so we come to class prepared to dig deeper.
+Dude2: Sounds like it’ll save time and make discussions way more engaging. No more guessing what the key concepts are and knowledge gaps!
+
+Dude1: Yep, and the professor sets the learning objectives once, then it runs itself. Pretty cool for our learning.
 ---
 
 ## 🚀 Project Overview
