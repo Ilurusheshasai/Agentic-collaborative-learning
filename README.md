@@ -8,16 +8,11 @@ Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system 
 
 **Stu1**: _Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?_
 **Stu2**: _Absolutely. I’ve spent hours trying to piece together classmates’ notes, only to find crucial parts missing or unclear._
-
-**Stu1**: That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone.
-
-**Stu2**: Wow—that means if my draft is missing examples or derivations, I get immediate suggestions to improve it before it’s shared broadly.
-
-**Stu1**: Exactly! And once approved, it emails the class with a link. Plus, it can generate discussion questions so we come to class prepared to dig deeper.
-
-**Stu2**: Sounds like it’ll save time and make discussions way more engaging. No more guessing what the key concepts are or where your gaps lie!
-
-**Stu1**: Yep, the professor just sets the learning objectives once, and then it all runs itself. Pretty cool for our learning.
+**Stu1**: _That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone._
+**Stu2**: _Wow—that means if my draft is missing examples or derivations, I get immediate suggestions to improve it before it’s shared broadly._
+**Stu1**: _Exactly! And once approved, it emails the class with a link. Plus, it can generate discussion questions so we come to class prepared to dig deeper._
+**Stu2**: _Sounds like it’ll save time and make discussions way more engaging. No more guessing what the key concepts are or where your gaps lie!_
+**Stu1**: _Yep, the professor just sets the learning objectives once, and then it all runs itself. Pretty cool for our learning._
 
 
  
