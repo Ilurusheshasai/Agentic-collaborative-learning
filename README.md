@@ -58,6 +58,8 @@ This becomes crucial in fast‑paced growing word—where traditional workflows 
 
 ## 🔧 Architecture & Agents
 
+![Agentic Learning Flowchart](agentic_flowchart.png)
+
 ```
 [Student Upload] → Drive Monitor Agent → LLM Critique Agent → Feedback Agent → Final Approval → Notification Agent → Content Agent → [Class Engagement]
 ```
