@@ -1,26 +1,24 @@
 # Agentic Collaborative Learning
 
-![Agentic Learning Banner](banner.png)
+Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system designed to supercharge student collaboration and learning quality in any classroom setting! This agentic model helps to solve that problem by allowing topic sharing between students by professor. Students submit the part of topic they have to prepare submit it in shared drive folder and LLM verifies it based on instruction provided by professor and then send email to other students to refer notes of it meets professor set bar, else suggest improvements to student and suggests a re-submission before sending to others.
 
-Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system designed to supercharge student collaboration and learning quality in any classroom setting!
-
+## Whats the point of every student reading the same notes yet the dont learn fully and dont get feedback on what they lack. Its embarcing to learn something in Univs and be in an ackward position when someone asks you questions and you cant answer it. This agentic model approach try's to eleminate the problem, by giving time to prepare notes, tell what you miss and share the notes with your peers quick feedbacks and encouraging discussions among students for next classes by preparing question that help you understand the why and how of learning process (Future work -  preparing question that help you understand the why and how of learning process).  
 ---
 
 ## 🚀 Project Overview
 
 Traditional peer-based learning in large topics often suffers from:
-
+- **Repeated Learning**: Every student learns same topics during an assignment and just get graded they they dont know how others are thinking and what is expected to learn.    
 - **Fragmented material**: Students produce notes of varying quality, leading to confusion.
 - **Delayed feedback**: Human grading/feedback can take days, hindering momentum.
 - **Lack of engagement**: Static notes sit unused, and class discussions lack fresh stimulus.
 
 **Agentic Collaborative Learning** addresses these challenges by:
-
-1. **Automating note collection** via a **Drive Monitor Agent**.
-2. **Instantly evaluating quality** with an **LLM Critique Agent** against professor‑defined learning objectives.
-3. **Providing feedback loops** through a **Feedback Agent**, so students iteratively improve their notes.
-4. **Broadcasting polished notes** to peers with a **Notification Agent** once approved.
-5. **Sparking discussion** by auto‑generating thought‑provoking questions via a **Content Agent**.
+2. **Automating note collection** via a **Drive Monitor Agent**.
+3. **Instantly evaluating quality** with an **LLM Critique Agent** against professor‑defined learning objectives.
+4. **Providing feedback loops** through a **Feedback Agent**, so students iteratively improve their notes.
+5. **Broadcasting polished notes** to peers with a **Notification Agent** once approved.
+6. **Sparking discussion** by auto‑generating thought‑provoking questions via a **Content Agent**.
 
 This pipeline ensures **high‑quality, consistent**, and **engaging** learning resources, boosting both efficiency and student motivation.
 
@@ -35,7 +33,7 @@ This pipeline ensures **high‑quality, consistent**, and **engaging** learning 
 - **Collaborative Amplification**: Approved notes become shared resources, reducing redundant effort and promoting peer learning.
 - **Engagement Catalyst**: Generated quizzes and discussion prompts keep the classroom conversation lively and focused.
 
-This becomes crucial in fast‑paced environments—hackathons, bootcamps, flipped‑classrooms—where traditional workflows can bottleneck.
+This becomes crucial in fast‑paced growing word—where traditional workflows can bottleneck.
 
 ---
 
@@ -120,13 +118,13 @@ agentic_learning/
 
 ## 📖 Discussion & Future Directions
 
-This project pioneers a **conversational, agentic approach** to learning:
+This project is a basic yet **conversational, agentic approach** to learning:
 
 - **Agent-driven collaboration** transforms static sharing into dynamic, automated workflows.
 - **LLM integration** elevates both content quality and student agency.
 - **Continuous feedback loops** foster a growth mindset—errors become learning moments.
 
-**In a hackathon** setting, this architecture can be extended to:
+this architecture can be extended to:
 - Real‑time Slack/Teams integrations
 - Advanced analytics dashboards tracking student progress
 - Adaptive quizzes based on individual performance
