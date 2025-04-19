@@ -4,15 +4,24 @@ Welcome to **Agentic Collaborative Learning**, an automated, multi-agent system 
 
 **Whats the point of every student reading the same notes yet the dont learn fully and dont get feedback on what they lack. Its embarcing to learn something in Univs and be in an ackward position when someone asks you questions and you cant answer it. This agentic model approach try's to eleminate the problem, by giving time to prepare notes, tell what you miss and share the notes with your peers quick feedbacks and encouraging discussions among students for next classes by preparing question that help you understand the why and how of learning process (Future work -  preparing question that help you understand the why and how of learning process).**
 
-👥 Student Conversation
+## 👥 Student Conversation
 
-**Dude1**: _Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?_    
-**Dude2**: _Absolutely. I’ve spent hours trying to piece together classmates’ notes, only to find crucial parts missing or unclear._  
-**Dude1**: _That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone._  
-**Dude2**: _Wow—that means if my draft is missing examples or derivations, I get immediate suggestions to improve it before it’s shared broadly._  
-**Dude1**: _Exactly! And once approved, it emails the class with a link. Plus, it can generate discussion questions so we come to class prepared to dig deeper._  
-**Dude2**: _Sounds like it’ll save time and make discussions way more engaging. No more guessing what the key concepts are and knowledge gaps!_   
-**Dude1**: _Yep, and the professor sets the learning objectives once, then it runs itself. Pretty cool for our learning._  
+**Stu1**: _Hey Bob, did you ever feel overwhelmed when everyone submits notes but no one really knows which ones are any good?
+_
+**Stu2**: _Absolutely. I’ve spent hours trying to piece together classmates’ notes, only to find crucial parts missing or unclear._
+
+**Stu1**: That’s why I’m excited about Agentic Collaborative Learning. It automatically collects submissions, uses an LLM to check them against our professor’s criteria, and then either gives feedback or shares the polished version with everyone.
+
+**Stu2**: Wow—that means if my draft is missing examples or derivations, I get immediate suggestions to improve it before it’s shared broadly.
+
+**Stu1**: Exactly! And once approved, it emails the class with a link. Plus, it can generate discussion questions so we come to class prepared to dig deeper.
+
+**Stu2**: Sounds like it’ll save time and make discussions way more engaging. No more guessing what the key concepts are or where your gaps lie!
+
+**Stu1**: Yep, the professor just sets the learning objectives once, and then it all runs itself. Pretty cool for our learning.
+
+
+ 
 ---
 
 ## 🚀 Project Overview
