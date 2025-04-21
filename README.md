@@ -12,7 +12,7 @@ Traditional peer-based learning in large topics often suffers from:
 - **Repeated Learning**: Every student learns same topics during an assignment and just get graded they they dont know how others are thinking and what is expected to learn.    
 - **Fragmented material**: Students produce notes of varying quality, leading to confusion.
 - **Delayed feedback**: Human grading/feedback can take days, hindering momentum.
-- **Lack of engagement**: Static notes sit unused, and class discussions lack fresh stimulus.
+- **Lack of engagement**: Static notes sit unused, and less class discussions lack fresh stimulus.
 
 **Agentic Collaborative Learning** addresses these challenges by:
 2. **Automating note collection** via a **Drive Monitor Agent**.
@@ -26,8 +26,6 @@ This pipeline ensures **high‑quality, consistent**, and **engaging** learning 
 ---
 
 ## 🎯 Why It Matters
-
-> “In modern classrooms, learning materials are only as effective as their currency and quality.”
 
 - **Quality Control**: Automated LLM evaluation enforces a consistent standard across all student submissions.
 - **Timely Feedback**: Near‑real‑time critique helps students correct gaps before misconceptions solidify.
