@@ -13,11 +13,11 @@ Traditional peer-based learning in large topics often suffers from:
 - **Lack of engagement**: Static notes sit unused, and less class discussions lack fresh stimulus.
 
 **Agentic Collaborative Learning** addresses these challenges by:
-2. **Automating note collection** via a **Drive Monitor Agent**.
-3. **Instantly evaluating quality** with an **LLM Critique Agent** against professor‑defined learning objectives.
-4. **Providing feedback loops** through a **Feedback Agent**, so students iteratively improve their notes.
-5. **Broadcasting polished notes** to peers with a **Notification Agent** once approved.
-6. **Sparking discussion** by auto‑generating thought‑provoking questions via a **Content Agent**.
+1. **Automating note collection** via a **Drive Monitor Agent**.
+2. **Instantly evaluating quality** with an **LLM Critique Agent** against professor‑defined learning objectives.
+3. **Providing feedback loops** through a **Feedback Agent**, so students iteratively improve their notes.
+4. **Broadcasting polished notes** to peers with a **Notification Agent** once approved.
+5. **Sparking discussion** by auto‑generating thought‑provoking questions via a **Content Agent**.
 
 This pipeline ensures **high‑quality, consistent**, and **engaging** learning resources, boosting both efficiency and student motivation.
 
